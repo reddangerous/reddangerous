@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently **Learning**
 
-- 🌱 I’m currently learning **React, React native, Rust**
+- 🌱 I’m currently learning **React, React-Native, Rust**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 🤝 I’m looking for help with **Mobile, java and Sql**
+- 🤝 I’m looking for help with **Mobile, java, React, Rust, PostgreSql and Sql**
 
 - 👨‍💻 All of my projects are available at [https://reddangerous.github.io/](https://reddangerous.github.io/)
 
