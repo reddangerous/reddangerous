@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently Learning<br><br> I’m currently learning React, React-Native, Rust<br><br> I’m looking to collaborate on Open source projects<br><br>👨‍💻 All of my projects are available at https://reddangerous.github.io/<br><br>💬 Ask me about React, Redux,  NodeJs, PostgreSql and Sql<br><br>📫 How to reach me dkinyanjui144@gmail.com
+I’m currently working with  React, React-Redux, Node<br><br> I’m looking to collaborate on Open source projects<br><br>👨‍💻 All of my projects are available at https://reddangerous.github.io/<br><br>💬 Ask me about React, Redux,  NodeJs, PostgreSql and Sql<br><br>📫 How to reach me dkinyanjui144@gmail.com
 
 
 # 💻 Tech Stack:
