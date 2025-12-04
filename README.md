@@ -103,23 +103,6 @@ Team collaboration and showcase platform.
 
 Professional website development project.
 
-### 🧃 [Juice App](https://juice-app-pi.vercel.app/)
-> React.js | Tailwind CSS
-
-Modern beverage ordering application.
-
-### 👤 [Personal Portfolio](https://wainainadeveloper.vercel.app/)
-> React.js | Node.js | Tailwind CSS
-
-My personal developer portfolio showcasing projects and skills.
-
-### 🔄 PriceList Evolution (Current)
-> Python | MS Access | PyInstaller
-
-Legacy VB6 to Python migration project for enterprise price list management systems.
-
----
-
 ## 🎓 Education
 
 **Bachelor of Science in Software Development**  
